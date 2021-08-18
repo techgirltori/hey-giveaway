@@ -18,7 +18,7 @@ import * as Util from './Util.js';
 export default function WheelConfig(winnerMessage) {
   this.title = '';
   this.names = [
-    'Hamburger', 'Lasagna', 'Fish and chips', 'فلافل - Falafel',
+    'Hamburgerb', 'Lasagna', 'Fish and chips', 'فلافل - Falafel',
     '炒麵 - Chow mein', 'Tortillaz', 'Crêpes', 'Pierogi', 'Feijoada',
     'ผัดไทย - Pad thai', 'Döner kebab', 'Phở'
   ];
