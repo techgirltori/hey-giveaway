@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "prod": "hey-giveaway",
+    "test": "heygiveaway-test",
+    "default": "hey-giveaway"
+  }
+}
